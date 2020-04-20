@@ -1,0 +1,6 @@
+name: Man10Wallet
+version: 1.0
+main: red.man10.man10wallet.Man10Wallet
+softdepend:
+  - Man10CommonLibs
+api-version: 1.13

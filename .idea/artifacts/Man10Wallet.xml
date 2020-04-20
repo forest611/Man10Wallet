@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10Wallet">
+    <output-path>$PROJECT_DIR$/out/artifacts/Man10Wallet</output-path>
+    <root id="archive" name="Man10Wallet.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+      <element id="module-output" name="Man10Wallet.main" />
+    </root>
+  </artifact>
+</component>
